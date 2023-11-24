@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhruv this side
 - 👀 I’m interested in learning new things and love to collaborate and work with people
-- 🌱 I’m currently learning python data science
+- 🌱 I’m currently learning data science and know android frontend development via flutter .
 - 💞️ I’m looking to collaborate on any feild love to learn and collab on any new tech
 - 📫 How to reach me dhruv2003sharma@gmail.com
 
